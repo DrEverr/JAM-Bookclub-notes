@@ -1,0 +1,23 @@
+{
+  "version": 3,
+  "notes": [
+    {
+      "noteVersion": 3,
+      "content": "ELVES is JAM's and Polkadot's bottleneck. Mostly because of this we have any limits in the network.",
+      "date": 1759376106748,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 5,
+        "index": 38
+      },
+      "selectionEnd": {
+        "pageNumber": 5,
+        "index": 41
+      },
+      "version": "ab2cdbd5b070ba2176e8dd830b06401ce05a954d",
+      "labels": [
+        "local"
+      ]
+    }
+  ]
+}
